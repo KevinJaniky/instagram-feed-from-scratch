@@ -8,12 +8,13 @@ Replace <strong>TOKEN_REPLACE</strong> by your token on config.php files.
 
 Replace <strong>000000</strong> by the first part of your token. 
 
+Replace <strong> your-instagram-account</strong> by the first part of your token. 
+
 
     1245784502.aaaaaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaa <=== TOKEN 
     1245784502   <=== CLIENT ID
 
-
-You don't need a mysql Server
+You don't need a mysql Server or another SGBD
 
 
 developed by <a href="https://www.decrea.fr/home">Kevin JANIKY</a>

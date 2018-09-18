@@ -3,7 +3,7 @@
 class Insta {
     private $token = TOKEN;
     private $client_id = CLIENT_ID;
-    private $account = 'kevinjnk';
+    private $account = ACCOUNT;
     private $api;
     private $data;
 

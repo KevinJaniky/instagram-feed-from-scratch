@@ -1,4 +1,5 @@
 <?php
 
-define('TOKEN','1988376293.1677ed0.b62806bbf5544b1881d98363ee870630');
-define('CLIENT_ID',1988376293);
+define('TOKEN','TOKEN_REPLACE');
+define('CLIENT_ID',000000);
+define('ACCOUNT','your-instagram-account');
